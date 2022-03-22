@@ -1,1 +1,3 @@
 Adding in some additional text to test.
+
+I just entered the optional git command to open Visual Studio Code and want to test if it worked.
